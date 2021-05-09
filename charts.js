@@ -80,7 +80,10 @@ function buildCharts(sample) {
       y: yticks,
       type: "bar",
       orientation:"h",
-      text: otu_labels
+      text: otu_labels,
+      marker: {
+        color: '#23b7e5'
+      }
     }];
     // 9. Create the layout for the bar chart. 
     var barLayout = {
