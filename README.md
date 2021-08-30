@@ -13,5 +13,5 @@ The picture below shows the finalized dashboard. Volunteers are able to select t
 
 ![dashboard](https://user-images.githubusercontent.com/78306719/117573782-6e322200-b09f-11eb-933e-2f0ca4a9524c.PNG)
 
-picture source:
+Picture source:
 https://thumbs.dreamstime.com/z/bacteria-petri-dish-closeup-green-33499339.jpg, retrieved May 4, 2021.
